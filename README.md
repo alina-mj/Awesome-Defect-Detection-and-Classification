@@ -9,7 +9,7 @@ More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/A
 
 ### X-Ray
 - Detection and Segmentation of Manufacturing Defects with Convolutional Neural Networks and Transfer Learning | [paper](https://arxiv.org/pdf/1808.02518.pdf) | [git](https://github.com/maxkferg/metal-defect-detection.git)
-    #### dataset
+    #### Dataset
     - GDXray+ | [site](https://domingomery.ing.puc.cl/material/gdxray/)
 
 ### Sewer Pipe
@@ -45,11 +45,17 @@ More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/A
     #### Dataset
     - NEU Steel Surface Defect Detection | [kaggle](https://www.kaggle.com/c/severstal-steel-defect-detection)
 
-### Electrical Commutator
+### etc
+#### Electrical Commutator
 - Tabernik, Domen, et al. "Segmentation-based deep-learning approach for surface-defect detection." Journal of Intelligent Manufacturing 31.3 (2020): 759-776 | [paper](https://link.springer.com/article/10.1007/s10845-019-01476-x) | [git implemented](https://github.com/Wslsdx/Deep-Learning-Approach-for-Surface-Defect-Detection.git) | [data: Kolektor Surface-Detect](https://www.vicos.si/Downloads/KolektorSDD)
 
-### etc
+#### Magnetic Tile
+- Huang, Yibin, Congying Qiu, and Kui Yuan. "Surface defect saliency of magnetic tile." The Visual Computer 36.1 (2020): 85-96 | [paper](https://ieeexplore.ieee.org/document/8560423) | [git](https://github.com/abin24/Saliency-detection-toolbox.git) | [data: Magnetic tile](https://github.com/abin24/Magnetic-tile-defect-datasets..git)
+
+#### Apple
 - Valdez, Paolo. "Apple Defect Detection Using Deep Learning Based Object Detection For Better Post Harvest Handling." ICLR 2020 | [paper](https://arxiv.org/pdf/2005.06089.pdf)
+    #### Dataset
+    - Textured Surfaces | [site](https://hci.iwr.uni-heidelberg.de/content/weakly-supervised-learning-industrial-optical-inspection)
 
 
 
