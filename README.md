@@ -31,7 +31,7 @@ More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/A
 - Autonomous Structural Visual Inspection Using Region-Based Deep Learning for Detecting Multiple Damage Types | [paper](https://www.semanticscholar.org/paper/Autonomous-Structural-Visual-Inspection-Using-Deep-Cha-Choi/15a4e2a15f20ed77609a70fb268cbcfafa21df54)
 - [Survey] A review on computer vision based defect detection and condition assessment of concrete and asphalt civil infrastructure | [paper](https://www.sciencedirect.com/science/article/abs/pii/S1474034615000208)
 - [Survey] Awesome-Surface-Defect-Detection | [git](https://github.com/hesitationer/surface-defect-detection-1.git)
-- Zhang, Lei, et al. "Road crack detection using deep convolutional neural network." ICIP 2016 | [paper](https://ieeexplore.ieee.org/document/7533052)
+- Zhang, Lei, et al. "Road crack detection using deep convolutional neural network." ICIP 2016 | [paper](https://ieeexplore.ieee.org/document/7533052) | [data: Surface Crack](https://www.kaggle.com/arunrk7/surface-crack-detection)
 - Road Crack Detection Using Deep Convolutional Neural Network and Adaptive Thresholding | [paper](https://ieeexplore.ieee.org/abstract/document/8814000?casa_token=P4qIU31gWecAAAAA:WVwty-Q1O9UBnw7ui42W_RyymFBwOHnJUEDCWi5CQCzsbeX-_dB4N9yC0T9JsrtCF-jleKson_Q)
 
 ### Film
