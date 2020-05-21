@@ -72,7 +72,7 @@ More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/A
 #### Apple
 - Valdez, Paolo. "Apple Defect Detection Using Deep Learning Based Object Detection For Better Post Harvest Handling." ICLR 2020 | [paper](https://arxiv.org/pdf/2005.06089.pdf)
 #### Dataset
-- Textured Surfaces | [site](https://hci.iwr.uni-heidelberg.de/content/weakly-supervised-learning-industrial-optical-inspection)
+- Weakly Supervised Learning for Industrial Optical Inspection | [site](https://hci.iwr.uni-heidelberg.de/content/weakly-supervised-learning-industrial-optical-inspection)
 
 
 
