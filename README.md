@@ -35,6 +35,10 @@ More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/A
 ### Film
 - Novel Framework for Optical Film Defect Detection and Classification | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9043539)
 
+### etc
+- Valdez, Paolo. "Apple Defect Detection Using Deep Learning Based Object Detection For Better Post Harvest Handling." ICLR 2020 | [paper](https://arxiv.org/pdf/2005.06089.pdf)
+
+
 
 ## Codes
   - Defect-Detection-Classifier [git](https://github.com/marooncn/Defect-Detection-Classifier.git)
