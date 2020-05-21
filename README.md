@@ -9,11 +9,11 @@ Dataset lists which are saparate from the papers are used in other papers or cod
 
 ## Papers
 ### Radiographs of welds in aerospace components
-  - Small Defect Detection Using Convolutional Neural Network Features and Random Forests | [paper](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11132/Dong_Small_Defect_Detection_Using_Convolutional_Neural_Network_Features_and_Random_ECCVW_2018_paper.pdf)
+  - Dong, Xinghui, Chris J. Taylor, and Tim F. Cootes. "Small defect detection using convolutional neural network features and random forests." ECCV 2018 Workshop | [paper](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11132/Dong_Small_Defect_Detection_Using_Convolutional_Neural_Network_Features_and_Random_ECCVW_2018_paper.pdf)
 
 
 ### X-Ray
-- Detection and Segmentation of Manufacturing Defects with Convolutional Neural Networks and Transfer Learning | [paper](https://arxiv.org/pdf/1808.02518.pdf) | [git](https://github.com/maxkferg/metal-defect-detection.git)
+- Ferguson, Max K., et al. "Detection and segmentation of manufacturing defects with convolutional neural networks and transfer learning." Smart and sustainable manufacturing systems 2 (2018) | [paper](https://arxiv.org/pdf/1808.02518.pdf) | [git](https://github.com/maxkferg/metal-defect-detection.git)
     #### Dataset
     - GDXray+ | [site](https://domingomery.ing.puc.cl/material/gdxray/)
 
