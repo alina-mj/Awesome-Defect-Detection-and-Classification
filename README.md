@@ -2,6 +2,9 @@
 List of papers and codes for defect detection. \
 More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/Awesome-Anomaly-Detection.git)
 
+The papers are sorted according to the category of inputs. \
+A dataset written at the end of the paper title is constructed by the paper's authors. \
+Dataset lists which are saparate from the papers are used in other papers or codes at least once.
 
 
 ## Papers
@@ -60,7 +63,7 @@ More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/A
 - Tabernik, Domen, et al. "Segmentation-based deep-learning approach for surface-defect detection." Journal of Intelligent Manufacturing 31.3 (2020): 759-776 | [paper](https://link.springer.com/article/10.1007/s10845-019-01476-x) | [git implemented](https://github.com/Wslsdx/Deep-Learning-Approach-for-Surface-Defect-Detection.git) | [data: Kolektor Surface-Detect](https://www.vicos.si/Downloads/KolektorSDD)
 - R. Ding, L. Dai, G. Li and H. Liu, "TDD-net: a tiny defect detection network for printed circuit boards," in CAAI Transactions on Intelligence Technology, vol. 4, no. 2, pp. 110-116, 6 2019, doi: 10.1049/trit.2019.0019 | [paper](https://ieeexplore.ieee.org/document/8757220) | [git](https://github.com/Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB.git)
     #### Dataset
-    - PCB Defect [site](http://robotics.pkusz.edu.cn/resources/dataset/)
+    - PCB Defect | [site](http://robotics.pkusz.edu.cn/resources/dataset/)
 
 
 ### Magnetic Tile
