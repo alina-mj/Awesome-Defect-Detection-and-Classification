@@ -32,6 +32,9 @@ More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/A
 - [Survey] A review on computer vision based defect detection and condition assessment of concrete and asphalt civil infrastructure | [paper](https://www.sciencedirect.com/science/article/abs/pii/S1474034615000208)
 - [Survey] Awesome-Surface-Defect-Detection | [git](https://github.com/hesitationer/surface-defect-detection-1.git)
 
+- Zhang, Lei, et al. "Road crack detection using deep convolutional neural network." ICIP 2016 | [paper](https://ieeexplore.ieee.org/document/7533052)
+- Road Crack Detection Using Deep Convolutional Neural Network and Adaptive Thresholding | [paper](https://ieeexplore.ieee.org/abstract/document/8814000?casa_token=P4qIU31gWecAAAAA:WVwty-Q1O9UBnw7ui42W_RyymFBwOHnJUEDCWi5CQCzsbeX-_dB4N9yC0T9JsrtCF-jleKson_Q)
+
 ### Film
 - Novel Framework for Optical Film Defect Detection and Classification | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9043539)
 
@@ -48,4 +51,5 @@ More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/A
   
   
 ## Dataset
-- Steel Defect Detection | [kaggle](https://www.kaggle.com/c/severstal-steel-defect-detection)
+- NEU Steel Surface Defect Detection | [kaggle](https://www.kaggle.com/c/severstal-steel-defect-detection)
+
