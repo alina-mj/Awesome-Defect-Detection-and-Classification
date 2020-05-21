@@ -35,9 +35,12 @@ More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/A
 ### Film
 - Novel Framework for Optical Film Defect Detection and Classification | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9043539)
 
+### Steel
+- Deshpande, Aditya M., Ali A. Minai, and Manish Kumar. "One-Shot Recognition of Manufacturing Defects in Steel Surfaces." NAMRC48 2020 | [paper](https://arxiv.org/pdf/2005.05815.pdf)
+- Nie, Zheng, Jiachen Xu, and Shengchang Zhang. "Analysis on DeepLabV3+ Performance for Automatic Steel Defects Detection." arXiv preprint arXiv:2004.04822 (2020) | [paper](https://arxiv.org/pdf/2004.04822.pdf)
+
 ### etc
 - Valdez, Paolo. "Apple Defect Detection Using Deep Learning Based Object Detection For Better Post Harvest Handling." ICLR 2020 | [paper](https://arxiv.org/pdf/2005.06089.pdf)
-
 
 
 ## Codes
