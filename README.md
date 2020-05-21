@@ -26,7 +26,7 @@ More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/A
   
 ### Building structure (concrete crack, steel corrosion, bolt corrosion, and steel delamination)
 - Autonomous Structural Visual Inspection Using Region‐Based Deep Learning for Detecting Multiple Damage Types | [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12334) | [project](https://www.youngjincha.com/research/structural-health-monitoring/) 
-- Deep Learning for Detecting Building Defects Using Convolutional Neural Networks [paper](https://arxiv.org/pdf/1908.04392.pdf)
+- Deep Learning for Detecting Building Defects Using Convolutional Neural Networks | [paper](https://arxiv.org/pdf/1908.04392.pdf)
 - Vision-based Structural Inspection using Multiscale Deep Convolutional Neural Networks | [paper](https://arxiv.org/pdf/1805.01055.pdf)
 - Autonomous Structural Visual Inspection Using Region-Based Deep Learning for Detecting Multiple Damage Types | [paper](https://www.semanticscholar.org/paper/Autonomous-Structural-Visual-Inspection-Using-Deep-Cha-Choi/15a4e2a15f20ed77609a70fb268cbcfafa21df54)
 - [Survey] A review on computer vision based defect detection and condition assessment of concrete and asphalt civil infrastructure | [paper](https://www.sciencedirect.com/science/article/abs/pii/S1474034615000208)
@@ -44,4 +44,8 @@ More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/A
 
 
 ## Codes
-  - Defect-Detection-Classifier [git](https://github.com/marooncn/Defect-Detection-Classifier.git)
+- Defect-Detection-Classifier | [git](https://github.com/marooncn/Defect-Detection-Classifier.git)
+  
+  
+## Dataset
+- Steel Defect Detection | [kaggle](https://www.kaggle.com/c/severstal-steel-defect-detection)
