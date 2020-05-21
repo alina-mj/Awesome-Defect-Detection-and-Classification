@@ -3,14 +3,17 @@ List of papers and codes for defect detection. \
 More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/Awesome-Anomaly-Detection.git)
 
 
+
 ## Papers
 ### Radiographs of welds in aerospace components
   - Small Defect Detection Using Convolutional Neural Network Features and Random Forests | [paper](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11132/Dong_Small_Defect_Detection_Using_Convolutional_Neural_Network_Features_and_Random_ECCVW_2018_paper.pdf)
+
 
 ### X-Ray
 - Detection and Segmentation of Manufacturing Defects with Convolutional Neural Networks and Transfer Learning | [paper](https://arxiv.org/pdf/1808.02518.pdf) | [git](https://github.com/maxkferg/metal-defect-detection.git)
     #### Dataset
     - GDXray+ | [site](https://domingomery.ing.puc.cl/material/gdxray/)
+
 
 ### Sewer Pipe
 - Automated defect classification in sewer closed circuit television inspections using deep convolutional neural networks | [paper](https://daneshyari.com/article/preview/6695634.pdf)
@@ -22,9 +25,11 @@ More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/A
 - Deep learning-based damage detection for sewer pipe inspection using faster R-CNN | [paper](http://programme.exordo.com/icccbe2018/delegates/presentation/271/)
 - Development and Improvement of Deep Learning Based Automated Defect Detection for Sewer Pipe Inspection Using Faster R-CNN | [paper](https://www.springerprofessional.de/en/development-and-improvement-of-deep-learning-based-automated-def/15832316)
 
+
 ### CCTV inspection
 - Automated detection of sewer pipe defects in closed-circuit television images using deep learning techniques | [paper](http://repository.ust.hk/ir/Record/1783.1-93997)
 - Deep Learning–Based Automated Detection of Sewer Defects in CCTV Videos | [paper](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CP.1943-5487.0000866)
+  
   
 ### Building structure (concrete crack, steel corrosion, bolt corrosion, and steel delamination)
 - Autonomous Structural Visual Inspection Using Region‐Based Deep Learning for Detecting Multiple Damage Types | [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12334) | [project](https://www.youngjincha.com/research/structural-health-monitoring/) 
@@ -39,8 +44,10 @@ More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/A
     - Bridge cracks | [git](https://github.com/maweifei/Bridge_Crack_Image_Data.git)
     - CrackForest: road surface | [git](https://github.com/cuilimeng/CrackForest-dataset.git)
 
+
 ### Film
 - Novel Framework for Optical Film Defect Detection and Classification | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9043539)
+
 
 ### Steel
 - Deshpande, Aditya M., Ali A. Minai, and Manish Kumar. "One-Shot Recognition of Manufacturing Defects in Steel Surfaces." NAMRC48 2020 | [paper](https://arxiv.org/pdf/2005.05815.pdf)
@@ -48,8 +55,13 @@ More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/A
     #### Dataset
     - NEU Steel Surface Defect Detection | [kaggle](https://www.kaggle.com/c/severstal-steel-defect-detection)
 
-### Electrical Commutator
+
+### Electrical Components
 - Tabernik, Domen, et al. "Segmentation-based deep-learning approach for surface-defect detection." Journal of Intelligent Manufacturing 31.3 (2020): 759-776 | [paper](https://link.springer.com/article/10.1007/s10845-019-01476-x) | [git implemented](https://github.com/Wslsdx/Deep-Learning-Approach-for-Surface-Defect-Detection.git) | [data: Kolektor Surface-Detect](https://www.vicos.si/Downloads/KolektorSDD)
+- R. Ding, L. Dai, G. Li and H. Liu, "TDD-net: a tiny defect detection network for printed circuit boards," in CAAI Transactions on Intelligence Technology, vol. 4, no. 2, pp. 110-116, 6 2019, doi: 10.1049/trit.2019.0019 | [paper](https://ieeexplore.ieee.org/document/8757220) | [git](https://github.com/Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB.git)
+    #### Dataset
+    - PCB Defect [site](http://robotics.pkusz.edu.cn/resources/dataset/)
+
 
 ### Magnetic Tile
 - Huang, Yibin, Congying Qiu, and Kui Yuan. "Surface defect saliency of magnetic tile." The Visual Computer 36.1 (2020): 85-96 | [paper](https://ieeexplore.ieee.org/document/8560423) | [git](https://github.com/abin24/Saliency-detection-toolbox.git) | [data: Magnetic tile](https://github.com/abin24/Magnetic-tile-defect-datasets..git)
