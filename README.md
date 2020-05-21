@@ -35,6 +35,9 @@ More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/A
 - [Survey] Awesome-Surface-Defect-Detection | [git](https://github.com/hesitationer/surface-defect-detection-1.git)
 - Zhang, Lei, et al. "Road crack detection using deep convolutional neural network." ICIP 2016 | [paper](https://ieeexplore.ieee.org/document/7533052) | [data: Surface Crack](https://www.kaggle.com/arunrk7/surface-crack-detection)
 - Road Crack Detection Using Deep Convolutional Neural Network and Adaptive Thresholding | [paper](https://ieeexplore.ieee.org/abstract/document/8814000?casa_token=P4qIU31gWecAAAAA:WVwty-Q1O9UBnw7ui42W_RyymFBwOHnJUEDCWi5CQCzsbeX-_dB4N9yC0T9JsrtCF-jleKson_Q)
+    #### Dataset
+    - Bridge cracks | [git](https://github.com/maweifei/Bridge_Crack_Image_Data.git)
+    - CrackForest: road surface | [git](https://github.com/cuilimeng/CrackForest-dataset.git)
 
 ### Film
 - Novel Framework for Optical Film Defect Detection and Classification | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9043539)
