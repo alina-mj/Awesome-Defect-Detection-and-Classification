@@ -56,7 +56,7 @@ Dataset lists which are saparate from the papers are used in other papers or cod
 - Deshpande, Aditya M., Ali A. Minai, and Manish Kumar. "One-Shot Recognition of Manufacturing Defects in Steel Surfaces." NAMRC48 2020 | [paper](https://arxiv.org/pdf/2005.05815.pdf)
 - Nie, Zheng, Jiachen Xu, and Shengchang Zhang. "Analysis on DeepLabV3+ Performance for Automatic Steel Defects Detection." arXiv preprint arXiv:2004.04822 (2020) | [paper](https://arxiv.org/pdf/2004.04822.pdf)
     #### Dataset
-    - NEU Steel Surface Defect Detection | [kaggle](https://www.kaggle.com/c/severstal-steel-defect-detection)
+    - NEU Steel Surface Defect Detection | [kaggle](https://www.kaggle.com/c/severstal-steel-defect-detection) | [git](https://github.com/khornlund/severstal-steel-defect-detection.git)
 
 
 ### Electrical Components
