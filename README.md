@@ -41,14 +41,18 @@ More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/A
 - Deshpande, Aditya M., Ali A. Minai, and Manish Kumar. "One-Shot Recognition of Manufacturing Defects in Steel Surfaces." NAMRC48 2020 | [paper](https://arxiv.org/pdf/2005.05815.pdf)
 - Nie, Zheng, Jiachen Xu, and Shengchang Zhang. "Analysis on DeepLabV3+ Performance for Automatic Steel Defects Detection." arXiv preprint arXiv:2004.04822 (2020) | [paper](https://arxiv.org/pdf/2004.04822.pdf)
 
+### Electrical Commutator
+Tabernik, Domen, et al. "Segmentation-based deep-learning approach for surface-defect detection." Journal of Intelligent Manufacturing 31.3 (2020): 759-776 | [paper](https://link.springer.com/article/10.1007/s10845-019-01476-x) | [git implemented](https://github.com/Wslsdx/Deep-Learning-Approach-for-Surface-Defect-Detection.git) | [data: Kolektor Surface-Detect](https://www.vicos.si/Downloads/KolektorSDD)
+
 ### etc
 - Valdez, Paolo. "Apple Defect Detection Using Deep Learning Based Object Detection For Better Post Harvest Handling." ICLR 2020 | [paper](https://arxiv.org/pdf/2005.06089.pdf)
+
 
 
 ## Codes
 - Defect-Detection-Classifier | [git](https://github.com/marooncn/Defect-Detection-Classifier.git)
   
+
   
 ## Dataset
 - NEU Steel Surface Defect Detection | [kaggle](https://www.kaggle.com/c/severstal-steel-defect-detection)
-
