@@ -1,5 +1,5 @@
 # Awesome-Defect-Detection
-Paper and code lists for defect detection. \
+List of papers and codes for defect detection. \
 More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/Awesome-Anomaly-Detection.git)
 
 
@@ -13,7 +13,7 @@ More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/A
 ### Sewer Pipe
   - Automated defect classification in sewer closed circuit television inspections using deep convolutional neural networks | [paper](https://daneshyari.com/article/preview/6695634.pdf)
   - Automated Detection of Sewer Pipe Defects Based on Cost-Sensitive Convolutional Neural Network | [paper](https://dl.acm.org/doi/pdf/10.1145/3372806.3372816)
-  - [Review] Review on Computer Aided Sewer Pipeline Defect Detection and Condition Assessment | [paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiG7sSI8cPpAhUjE6YKHdlqBLMQFjABegQIBhAB&url=https%3A%2F%2Fwww.mdpi.com%2F2412-3811%2F4%2F1%2F10%2Fpdf&usg=AOvVaw0W0J9K22Mqv1AQZjcQBpPV)
+  - [Survey] Review on Computer Aided Sewer Pipeline Defect Detection and Condition Assessment | [paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiG7sSI8cPpAhUjE6YKHdlqBLMQFjABegQIBhAB&url=https%3A%2F%2Fwww.mdpi.com%2F2412-3811%2F4%2F1%2F10%2Fpdf&usg=AOvVaw0W0J9K22Mqv1AQZjcQBpPV)
   - Underground sewer pipe condition assessment based on convolutional T neural networks | [paper](https://danglienminh.github.io/public/papers/Automation_19.pdf)
   - CLASSIFICATION OF UNDERWATER PIPELINE EVENTS USING DEEP CONVOLUTIONAL NEURAL NETWORKS | [paper](http://www.pee.ufrj.br/index.php/pt/producao-academica/dissertacoes-de-mestrado/2017/2016033212-classification-of-underwater-pipeline-events-using-deep-convolutional-neural-networks/file) | [poster](https://sigport.org/sites/default/files/docs/ICASSP%20Poster-2017_FelipePetraglia.pdf)
   - Obstruction level detection of sewer videos using convolutional neural networks | [paper](https://arxiv.org/pdf/2002.01284.pdf)
@@ -29,8 +29,8 @@ More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/A
   - Deep Learning for Detecting Building Defects Using Convolutional Neural Networks [paper](https://arxiv.org/pdf/1908.04392.pdf)
   - Vision-based Structural Inspection using Multiscale Deep Convolutional Neural Networks | [paper](https://arxiv.org/pdf/1805.01055.pdf)
   - Autonomous Structural Visual Inspection Using Region-Based Deep Learning for Detecting Multiple Damage Types | [paper](https://www.semanticscholar.org/paper/Autonomous-Structural-Visual-Inspection-Using-Deep-Cha-Choi/15a4e2a15f20ed77609a70fb268cbcfafa21df54)
-  - [Review] A review on computer vision based defect detection and condition assessment of concrete and asphalt civil infrastructure | [paper](https://www.sciencedirect.com/science/article/abs/pii/S1474034615000208)
-  - [Summary] Awesome-Surface-Defect-Detection | [git](https://github.com/hesitationer/surface-defect-detection-1.git)
+  - [Survey] A review on computer vision based defect detection and condition assessment of concrete and asphalt civil infrastructure | [paper](https://www.sciencedirect.com/science/article/abs/pii/S1474034615000208)
+  - [Survey] Awesome-Surface-Defect-Detection | [git](https://github.com/hesitationer/surface-defect-detection-1.git)
 
 ## Codes
   - Defect-Detection-Classifier [git](https://github.com/marooncn/Defect-Detection-Classifier.git)
