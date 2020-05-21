@@ -1,5 +1,6 @@
 # Awesome-Defect-Detection
-
+Paper and code lists for defect detection. \
+More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/Awesome-Anomaly-Detection.git)
 
 
 ## Papers
