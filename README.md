@@ -48,15 +48,16 @@ More information about [Awesome-Anomaly-Detection](https://github.com/alina-mj/A
     #### Dataset
     - NEU Steel Surface Defect Detection | [kaggle](https://www.kaggle.com/c/severstal-steel-defect-detection)
 
-### etc
-#### Electrical Commutator
+### Electrical Commutator
 - Tabernik, Domen, et al. "Segmentation-based deep-learning approach for surface-defect detection." Journal of Intelligent Manufacturing 31.3 (2020): 759-776 | [paper](https://link.springer.com/article/10.1007/s10845-019-01476-x) | [git implemented](https://github.com/Wslsdx/Deep-Learning-Approach-for-Surface-Defect-Detection.git) | [data: Kolektor Surface-Detect](https://www.vicos.si/Downloads/KolektorSDD)
 
-#### Magnetic Tile
+### Magnetic Tile
 - Huang, Yibin, Congying Qiu, and Kui Yuan. "Surface defect saliency of magnetic tile." The Visual Computer 36.1 (2020): 85-96 | [paper](https://ieeexplore.ieee.org/document/8560423) | [git](https://github.com/abin24/Saliency-detection-toolbox.git) | [data: Magnetic tile](https://github.com/abin24/Magnetic-tile-defect-datasets..git)
 
-#### Apple
+### Apple
 - Valdez, Paolo. "Apple Defect Detection Using Deep Learning Based Object Detection For Better Post Harvest Handling." ICLR 2020 | [paper](https://arxiv.org/pdf/2005.06089.pdf)
+
+### Etc
     #### Dataset
     - Textured Surfaces | [site](https://hci.iwr.uni-heidelberg.de/content/weakly-supervised-learning-industrial-optical-inspection)
 
