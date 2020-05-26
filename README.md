@@ -85,3 +85,4 @@ Dataset lists which are saparate from the papers are used in other papers or cod
 
 ## Defect Classification
 - Saiz, Fátima A., et al. "A Robust and Fast Deep Learning-Based Method for Defect Classification in Steel Surfaces." 2018 International Conference on Intelligent Systems (IS). IEEE, 2018. | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8710501)
+- Arikan, Selim, Kiran Varanasi, and Didier Stricker. "Surface Defect Classification in Real-Time Using Convolutional Neural Networks." arXiv preprint arXiv:1904.04671 (2019). | [paper](https://arxiv.org/pdf/1904.04671.pdf)
